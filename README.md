@@ -1,1 +1,1 @@
-./cmake-build-debug/lab2v1
+скомпилированное ./cmake-build-debug/lab2v1
