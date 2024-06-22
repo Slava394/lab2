@@ -1,0 +1,10 @@
+# ninja log v5
+1	90	1719075827038187517	build.ninja	2f8e9ac5404f256a
+3921	4113	1719075225741193497	decay	a88ce30737a16708
+0	2718	1719075935272794738	CMakeFiles/lab2v1.dir/main.cpp.o	f679fd7512787840
+2719	5574	1719075938132828437	CMakeFiles/lab2v1.dir/interface/CLI.cpp.o	cdaee142c0763cf4
+5575	6923	1719075939482844345	CMakeFiles/lab2v1.dir/test/MutableListSequenceTest.cpp.o	7ce01cc3d4366b66
+6923	9428	1719075941986207176	CMakeFiles/lab2v1.dir/test/ImmutableListSequenceTest.cpp.o	ffa19802ddd11013
+9428	10866	1719075943426224146	CMakeFiles/lab2v1.dir/test/MutableArraySequenceTest.cpp.o	545cd9de42bba308
+10866	12428	1719075944986242529	CMakeFiles/lab2v1.dir/test/ImmutableArraySequenceTest.cpp.o	33b75e99bd0436eb
+12428	12596	1719075945156244533	lab2v1	d0ceec1af1f53cf7
